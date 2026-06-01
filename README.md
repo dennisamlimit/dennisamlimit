@@ -10,10 +10,16 @@
 ---
 
 ### About Me
+
+
 <p align="center">
-  I enjoy working on web applications, backend systems, desktop tools and clean user interfaces.  
-  Most of my projects are built around learning, improving and solving real problems with code.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=12000&color=0B3D91&center=true&vCenter=true&width=850&lines=Dein+Limit+ist+nur+der+Anfang+von+etwas+Gr%C3%B6%C3%9Ferem." alt="Mindset Quote" />
 </p>
+
+<p align="center">
+  <sub>Your limit is only the start of something greater.</sub>
+</p>
+
 
 ---
 
