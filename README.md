@@ -34,3 +34,14 @@ Frontend:   React · TypeScript · Tailwind CSS
 Backend:    C# · Node.js · SQL
 Tools:      Git · GitHub · VS Code · Visual Studio
 Focus:      Web Apps · Software Tools · UI/UX · IT Systems
+```
+
+### On repeat while coding
+
+<p align="center">
+
+  <a href="https://open.spotify.com/intl-de/track/5RnqjTqcoAaLuWZOB9n3pT?si=24d2edcb23b446a5">
+    <img src="https://img.shields.io/badge/Favourite%20Song-Click%20to%20Listen-0B3D91?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+
+</p>
